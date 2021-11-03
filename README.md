@@ -2,7 +2,7 @@
 
 ![React](/assets/react.svg)
 ![Redux](/assets/redux.svg)
-![JS](/assets/JS.svg)
+![JS](/assets/JS.gif)
 ![CSS](/assets/css3.svg)
 ![HTML](/assets/html-5.svg)
 ![Git](/assets/git.svg)
