@@ -1,11 +1,11 @@
 ## MY TECHNOLOGY STACK AND TOOLS
 
-![React](/svg/react.svg)
-![Redux](/svg/redux.svg)
-![JS](/svg/JS.svg)
-![CSS](/svg/css3.svg)
-![HTML](/svg/html-5.svg)
-![Git](/svg/git.svg)
+![React](/assets/react.svg)
+![Redux](/assets/redux.svg)
+![JS](/assets/JS.svg)
+![CSS](/assets/css3.svg)
+![HTML](/assets/html-5.svg)
+![Git](/assets/git.svg)
 
 ## MY CONTACTS
 
