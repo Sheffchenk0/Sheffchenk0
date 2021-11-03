@@ -3,8 +3,8 @@
 ![React](/assets/react.svg)
 ![Redux](/assets/redux.svg)
 ![JS](/assets/js.gif)
-![CSS](/assets/css3.svg)
-![HTML](/assets/html-5.svg)
+![CSS](/assets/css.svg)
+![HTML](/assets/html.svg)
 ![Git](/assets/git.svg)
 
 ## MY CONTACTS
