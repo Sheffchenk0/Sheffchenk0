@@ -1,6 +1,6 @@
 ## Hi there! 👋 My name is Nikita.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=sheffchenk0)
 
 - ⚡ I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
 - ⛳ I'm crazy about programming and growing as a developer
