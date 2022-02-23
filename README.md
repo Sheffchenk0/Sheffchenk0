@@ -11,6 +11,7 @@
 ## MY TECHNOLOGY STACK AND TOOLS
 
 ![React](/assets/react.svg)
+![TypeScript](/assets/ts.svg)
 ![Redux](/assets/redux.svg)
 ![JS](/assets/js.svg)
 ![CSS](/assets/css.svg)
@@ -19,7 +20,6 @@
 
 ## I am currently learning
 
-![TypeScript](/assets/ts.svg)
 ![Vue](/assets/vue.svg)
 
 ## MY CONTACTS
