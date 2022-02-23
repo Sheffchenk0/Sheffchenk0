@@ -17,10 +17,10 @@
 ![CSS](/assets/css.svg)
 ![HTML](/assets/html.svg)
 ![Git](/assets/git.svg)
-
+<!-- 
 ## I am currently learning
 
-![Vue](/assets/vue.svg)
+![Vue](/assets/vue.svg) -->
 
 ## MY CONTACTS
 
