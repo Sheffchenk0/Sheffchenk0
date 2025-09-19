@@ -30,6 +30,16 @@ Launched numerous **promotions**, referral systems, and microservices that gener
 
 ## MY CONTACTS
 
-[<img src="./assets/linked.webp" width="90px" height="90px">](https://www.linkedin.com/in/nshevchenk0/)
-[<img src="./assets/telegram.svg">](https://t.me/sheffic)
-[<img src="./assets/gmail.svg" width="90px" height="90px">](mailto:bladdem2017@gmail.com)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nshevchenk0/">
+    <div style="width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-top: -6px">
+      <img src="./assets/LinkedIn_icon.svg.webp" alt="LinkedIn" style="max-width: 73px; max-height: 73px;">
+    </div>
+  </a>
+  <a href="https://t.me/sheffic">
+    <img src="./assets/telegram.svg" style="width: 90px; height: 90px;" alt="Telegram">
+  </a>
+  <a href="mailto:bladdem2017@gmail.com">
+    <img src="./assets/gmail.svg" style="width: 90px; height: 90px;" alt="Gmail">
+  </a>
+</div>
